@@ -1,0 +1,14 @@
+/* ThemedComponent.css */
+.themed-component {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    /* margin-top: 10px; */
+  }
+  
+  .themed-button {
+    background-color: var(--button-color);
+    color: var(--text-color);
+    border: none;
+    cursor: pointer;
+  }
+  
